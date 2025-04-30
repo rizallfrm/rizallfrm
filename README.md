@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  <b>Tech Enthusiast | Full Stack Developer | Lifelong Learner</b>
+</p>
+
+
 # 💫 About Me:
 🔭 I’m currently a student at Amikom Purwokerto University  
 🌱 I’m currently learning Full Stack Web & Mobile Development  
@@ -11,6 +20,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/zall.frm/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizal-firmansyah-016940273/)
 
+---
+
+---
+![Visitor Count](https://komarev.com/ghpvc/?username=rizallfrm&color=brightgreen)
 ---
 
 ## 💻 Tech Stack:
