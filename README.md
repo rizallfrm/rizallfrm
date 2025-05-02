@@ -24,8 +24,7 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zall.frm/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizal-firmansyah-016940273/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.rizalfirmansyah2105@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizallfrm)
 
 ---
@@ -43,15 +42,15 @@
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🗃️ Databases
+### 🗃️ Databases & ORMs
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+
 
 ### 🛠️ Tools & Platforms
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -69,11 +68,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rizallfrm&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 🔥 Recent Activity
 
@@ -91,11 +85,11 @@
 
 <div align="center">
   
-  <a href="https://github.com/rizallfrm/repo1">
+  <a href="https://github.com/rizallfrm/skyticket-frontend">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizallfrm&repo=repo1&theme=radical" />
   </a>
   
-  <a href="https://github.com/rizallfrm/repo2">
+  <a href="https://github.com/rizallfrm/music-rental-studio-mobile">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizallfrm&repo=repo2&theme=radical" />
   </a>
   
@@ -103,19 +97,15 @@
 
 ---
 
+
 ## 💡 Currently Learning
 
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🎧 Currently Listening To
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&redirect=true)
-
----
 
 <div align="center">
   
