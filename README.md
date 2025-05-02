@@ -82,19 +82,17 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Pinned Repository
 
 <div align="center">
 
-### 🎵 Music Rental Studio Mobile
-[![Repo](https://img.shields.io/badge/Repo-Music_Rental_Studio_Mobile-blue?style=for-the-badge&logo=github)](https://github.com/rizallfrm/music-rental-studio-mobile)
-![Dart](https://img.shields.io/badge/Dart-52.8%25-blue?logo=dart)
-![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter)
+<a href="https://github.com/rizallfrm/music-rental-studio-mobile">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizallfrm&repo=music-rental-studio-mobile&theme=dark&show_owner=true" />
+</a>
 
-### ✈️ SkyTicket Frontend
-[![Repo](https://img.shields.io/badge/Repo-SkyTicket_Frontend-green?style=for-the-badge&logo=github)](https://github.com/rizallfrm/skyticket-frontend)
-![JavaScript](https://img.shields.io/badge/JavaScript-98.6%25-yellow?logo=javascript)
-![React](https://img.shields.io/badge/React-Library-blue?logo=react)
+<a href="https://github.com/rizallfrm/skyticket-frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizallfrm&repo=skyticket-frontend&theme=dark&show_owner=true" />
+</a>
 
 </div>
 
