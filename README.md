@@ -1,46 +1,126 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+  <h1 align="center">Hello World! 👋 I'm Rizal Firmansyah</h1>
+  <h3 align="center">Full Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 </p>
 
 <p align="center">
-  <b>Tech Enthusiast | Full Stack Developer | Lifelong Learner</b>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Crafting+digital+experiences+with+code;Turning+ideas+into+functional+reality;Learning+something+new+everyday" alt="Typing SVG" /></a>
 </p>
 
+---
 
-# 💫 About Me:
-🔭 I’m currently a student at Amikom Purwokerto University  
-🌱 I’m currently learning Full Stack Web & Mobile Development  
-🤝 I’m looking to collaborate on web or mobile projects  
-💬 Ask me about JavaScript, Node.js, or Flutter  
-⚡ Fun fact: I love exploring new tech and making UI look clean!
+## 🚀 About Me
+
+🎓 Computer Science Student at Amikom Purwokerto University  
+💻 Passionate about Full Stack Development (Web & Mobile)  
+🎨 UI/UX Enthusiast who loves clean designs  
+📚 Constantly learning and expanding my skill set  
+⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 ---
 
-## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/zall.frm/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizal-firmansyah-016940273/)
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zall.frm/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizal-firmansyah-016940273/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizallfrm)
 
 ---
 
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🌐 Web Development
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗃️ Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
-![Visitor Count](https://komarev.com/ghpvc/?username=rizallfrm&color=brightgreen)
----
 
-## 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)  ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  ![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+## 📈 GitHub Stats
 
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rizallfrm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=rizallfrm&theme=dark&hide_border=false&cache_seconds=1800)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizallfrm&theme=dark&hide_border=false&layout=compact&cache_seconds=1800)
-
----
-
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=rizallfrm&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  
+  ![Rizal's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizallfrm&show_icons=true&theme=radical)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizallfrm&layout=compact&theme=radical)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=rizallfrm&theme=radical)
+  
+</div>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rizallfrm&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1] in [repository-name]
+2. 🚀 Deployed new project to Vercel
+3. 🛠️ Working on a new Flutter project
+4. 📝 Updated portfolio website
+5. 🎨 Designed new UI components
+<!--END_SECTION:activity-->
+
+---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+  
+  <a href="https://github.com/rizallfrm/repo1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizallfrm&repo=repo1&theme=radical" />
+  </a>
+  
+  <a href="https://github.com/rizallfrm/repo2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizallfrm&repo=repo2&theme=radical" />
+  </a>
+  
+</div>
+
+---
+
+## 💡 Currently Learning
+
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+---
+
+## 🎧 Currently Listening To
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&redirect=true)
+
+---
+
+<div align="center">
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=rizallfrm&color=blueviolet&style=flat-square)
+  
+  <p>Thanks for visiting! ❤️</p>
+  
+</div>
