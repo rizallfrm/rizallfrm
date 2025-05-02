@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Crafting+digital+experiences+with+code;Turning+ideas+into+functional+reality;Learning+something+new+everyday" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22D3EE&center=true&width=600&lines=Crafting+digital+experiences+with+code;Turning+ideas+into+real+applications;Always+learning+new+technologies" alt="Typing Animation" />
+  </a>
 </p>
-
 ---
 
 ## 🚀 About Me
@@ -72,7 +73,7 @@
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1] in [repository-name]
+1. 🎉 Merged PR [#1] 
 2. 🚀 Deployed new project to Vercel
 3. 🛠️ Working on a new Flutter project
 4. 📝 Updated portfolio website
@@ -86,16 +87,14 @@
 <div align="center">
   
   <a href="https://github.com/rizallfrm/skyticket-frontend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizallfrm&repo=repo1&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizallfrm&repo=skyticket-frontend&theme=radical" />
   </a>
   
   <a href="https://github.com/rizallfrm/music-rental-studio-mobile">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizallfrm&repo=repo2&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizallfrm&repo=music-rental-studio-mobile&theme=radical" />
   </a>
   
 </div>
-
----
 
 
 ## 💡 Currently Learning
