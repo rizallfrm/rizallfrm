@@ -80,41 +80,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rizallfrm&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-## 🔥 Recent Projects
-
-<div align="center">
-  
-  <a href="https://github.com/rizallfrm/music-rental-studio-mobile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizallfrm&repo=music-rental-studio-mobile&theme=dark&show_owner=true" />
-  </a>
-  
-  <a href="https://github.com/rizallfrm/skyticket-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizallfrm&repo=skyticket-frontend&theme=dark&show_owner=true" />
-  </a>
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built My Portfolio with Next.js](https://example.com)
-- [Flutter State Management Comparison](https://example.com)
-- [Getting Started with Docker](https://example.com)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 💡 Currently Learning
 
