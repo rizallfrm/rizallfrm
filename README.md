@@ -64,17 +64,29 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/rizallfrm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizallfrm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizallfrm&layout=compact&langs_count=8&theme=radical"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rizallfrm&theme=radical"/>
+  
+  ### Profile Overview
+  <a href="https://github.com/rizallfrm" aria-label="View Rizal's GitHub Profile">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizallfrm&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rizal's GitHub stats"/>
   </a>
+
+  ### Top Languages
+  <a href="https://github.com/rizallfrm?tab=repositories" aria-label="View Rizal's Repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizallfrm&layout=compact&langs_count=8&theme=radical" alt="Rizal's most used languages"/>
+  </a>
+
+  ### Contribution Streak
+  <a href="https://github.com/rizallfrm" aria-label="View Rizal's Contribution Graph">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rizallfrm&theme=radical" alt="Rizal's contribution streak"/>
+  </a>
+
 </div>
 
 ---
+
 
 
 
