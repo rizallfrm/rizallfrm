@@ -18,7 +18,7 @@
 💻 **Full Stack Developer** specializing in Web & Mobile  
 🎨 **UI/UX Enthusiast** with an eye for clean, functional designs  
 📚 **Continuous Learner** always expanding my tech stack  
-⚡ **Fun Fact:** Rubik's cube solver (<2 minutes) & chess player  
+⚡ **Fun Fact:** I'm player chess
 
 ---
 
