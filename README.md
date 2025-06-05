@@ -16,7 +16,6 @@
 
 🎓 **Computer Science Student** at Amikom Purwokerto University  
 💻 **Full Stack Developer** specializing in Web & Mobile  
-🎨 **UI/UX Enthusiast** with an eye for clean, functional designs  
 📚 **Continuous Learner** always expanding my tech stack  
 ⚡ **Fun Fact:** I'm player chess
 
