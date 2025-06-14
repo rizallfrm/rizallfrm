@@ -13,10 +13,12 @@
 ---
 
 ## 🚀 About Me
+
 🎓 **Computer Science Student** at Amikom Purwokerto University  
 💻 **Full Stack Developer** specializing in Web & Mobile  
 📚 **Continuous Learner** always expanding my tech stack  
 ⚡ **Fun Fact:** I'm player chess
+
 ---
 
 ## 🌐 Connect With Me
