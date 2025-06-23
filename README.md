@@ -15,15 +15,6 @@
 
 ## 🌟 About Me
 
-<div align="center">
-  
-  <!-- Lanyard Discord Status -->
-  <img src="https://lanyard.cnrad.dev/api/zall.fr" alt="Discord Status" width="400"/>
-  
-</div>
-
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 ```javascript
 const rizal = {
     name: "Rizal Firmansyah",
