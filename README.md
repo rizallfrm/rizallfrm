@@ -15,6 +15,13 @@
 
 ## 🌟 About Me
 
+<div align="center">
+  
+  <!-- Lanyard Discord Status -->
+  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID" alt="Discord Status" width="400"/>
+  
+</div>
+
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```javascript
@@ -25,7 +32,8 @@ const rizal = {
     location: "Indonesia 🇮🇩",
     interests: ["Web Development", "Mobile Apps", "Chess ♟️"],
     currentFocus: "Building scalable applications",
-    lifePhilosophy: "Code with passion, learn with purpose"
+    lifePhilosophy: "Code with passion, learn with purpose",
+    status: "Online and coding! 🚀"
 };
 ```
 
@@ -38,6 +46,16 @@ const rizal = {
 - 💬 Ask me about **React, Flutter, or anything tech**
 - ⚡ Fun fact: **I solve problems with code and chess moves**
 
+### 🎮 Real-time Status
+<div align="center">
+  
+  <!-- Alternative Lanyard with custom styling -->
+  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <img src="https://lanyard-profile-readme.vercel.app/api/YOUR_DISCORD_ID?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20coding%20something%20awesome..." alt="Discord Status"/>
+  </a>
+  
+</div>
+
 ---
 
 ## 🌐 Let's Connect
@@ -48,6 +66,11 @@ const rizal = {
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/rizal-firmansyah-016940273/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:rizalfirmansyah2105@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/rizallfrm)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/YOUR_DISCORD_ID)
+
+  <!-- Spotify Now Playing -->
+  <br><br>
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" width="350"/>
 
 </div>
 
