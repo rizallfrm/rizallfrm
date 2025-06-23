@@ -18,7 +18,7 @@
 <div align="center">
   
   <!-- Lanyard Discord Status -->
-  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID" alt="Discord Status" width="400"/>
+  <img src="https://lanyard.cnrad.dev/api/zall.fr" alt="Discord Status" width="400"/>
   
 </div>
 
@@ -50,8 +50,8 @@ const rizal = {
 <div align="center">
   
   <!-- Alternative Lanyard with custom styling -->
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://lanyard-profile-readme.vercel.app/api/YOUR_DISCORD_ID?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20coding%20something%20awesome..." alt="Discord Status"/>
+  <a href="https://discord.com/users/zall.fr">
+    <img src="https://lanyard-profile-readme.vercel.app/api/zall.fr?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20coding%20something%20awesome..." alt="Discord Status"/>
   </a>
   
 </div>
@@ -66,7 +66,7 @@ const rizal = {
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/rizal-firmansyah-016940273/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:rizalfirmansyah2105@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/rizallfrm)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/YOUR_DISCORD_ID)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/zall.fr)
 
   <!-- Spotify Now Playing -->
   <br><br>
