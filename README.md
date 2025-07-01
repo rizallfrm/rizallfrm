@@ -3,11 +3,6 @@
   <!-- Animated Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Rizal%20Firmansyah&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
   
-  <!-- Dynamic Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Crafting+digital+experiences;💡+Turning+ideas+into+reality;⚡+Always+learning+new+tech;🎯+Clean+code+advocate" alt="Typing SVG" />
-  </a>
-  
   <!-- Animated divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
